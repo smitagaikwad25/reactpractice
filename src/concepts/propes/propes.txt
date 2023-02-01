@@ -1,0 +1,2 @@
+1.Propes get passed to the component
+2.
